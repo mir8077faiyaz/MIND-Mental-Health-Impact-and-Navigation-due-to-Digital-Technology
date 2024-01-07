@@ -1,2 +1,15 @@
 # ML_Project_Impact-of-Tech-on-Mental-Health
 The aim of this project (In development Phase) is to make predictions on Mental Wellbeing given different aspects of Technology Usage
+# Abstract:
+About 1 in every 8 people suffer from mental health issues worldwide [20]. Mental wellbeing is a serious matter of concern as poor mental health can hinder a person’s quality of life.
+Along with this, the increase in technology usage also contributes to deteriorating our mental wellbeing. Our work aims to predict the impact of technology on an individual’s mental
+health.To proceed with the work, after doing in-depth research about what could be an ideal
+set of questions, we initiated preparing a questionnaire for collecting data. The questionnaire
+had 5 sections that comprised 38 questions in total that asked questions about the participants,
+participants’ interaction with technology and how they cope stress. The questionnaire was filled
+by 624 participants but after checking carefully 613 data were finally considered. We used nine
+classifiers, one feature selection and three hyperparameter tuning techniques. The maximum
+achieved accuracy was 72% for logistic regression, and recall was 67% for Random Forest.In
+the end, an explainable AI framework “LIME” was used to get a thorough understanding of
+how the machine learning model derived its predictions.
+
